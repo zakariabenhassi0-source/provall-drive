@@ -1,0 +1,13 @@
+# Documents commerciaux : ne pas publier avec le code
+*.pdf
+*.docx
+
+# Réglages locaux
+.claude/settings.local.json
+node_modules/
+.env
+.env.*
+
+# Système
+Thumbs.db
+.DS_Store

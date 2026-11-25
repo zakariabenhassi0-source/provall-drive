@@ -1,0 +1,15 @@
+{
+  "name": "Proval Drive",
+  "short_name": "Proval Drive",
+  "description": "Vos courses prêtes, sans sortir de la voiture. Proval Market, Metz-Vallières.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f5",
+  "theme_color": "#1d6b45",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

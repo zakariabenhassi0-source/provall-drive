@@ -1,0 +1,12 @@
+{
+  "name": "proval-drive",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prototype de l'application Proval Drive (click & collect en voiture) pour Proval Market, Metz-Vallières.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
